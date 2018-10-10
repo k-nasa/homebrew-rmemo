@@ -3,7 +3,7 @@ class Rmemo < Formula
   homepage "https://github.com/k-nasa/rmemo"
   url "https://github.com/k-nasa/rmemo/archive/0.1.2.tar.gz"
   version "0.1.2"
-  sha256 "101d54714a5082297ebd19317dfe31ade5cdeac4ed0eba04df9f7cb76a3e016b"
+  sha256 "fe945de6e4afe10531fd5a4403d41d202122c9b973004ee53593b7677d6bf327"
 
   depends_on "rust"
 
