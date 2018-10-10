@@ -8,7 +8,7 @@ class Rmemo < Formula
   depends_on "rust"
 
   def install
-    system "cargo", "install", "--path", "."
+     system "cargo", "install", "--root", prefix, "--path", "."
   end
 
   test do
