@@ -3,7 +3,7 @@ class Rmemo < Formula
   homepage "https://github.com/k-nasa/rmemo"
   url "https://github.com/k-nasa/rmemo/releases/download/0.1.2/rmemo-v0.1.2-x86_64-apple-darwin.zip"
   version "0.1.2"
-  sha256 ""
+  sha256 "101d54714a5082297ebd19317dfe31ade5cdeac4ed0eba04df9f7cb76a3e016b"
 
   depends_on "fzf"
 
